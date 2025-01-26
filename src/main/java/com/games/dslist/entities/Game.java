@@ -134,7 +134,4 @@ public class Game {
 		Game other = (Game) obj;
 		return id == other.id;
 	}
-	
-	
-	
 }
